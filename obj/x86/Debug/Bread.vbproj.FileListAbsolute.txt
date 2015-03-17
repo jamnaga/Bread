@@ -1,0 +1,34 @@
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\bin\Debug\Bread.exe
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\bin\Debug\Bread.pdb
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\bin\Debug\Bread.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.AboutBox1.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.Form1.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.Resources.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.exe
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.pdb
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Bread\obj\x86\Debug\Bread.Form2.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.exe
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.xml
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.pdb
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\bin\Debug\Bread.exe
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\bin\Debug\Bread.pdb
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\bin\Debug\Bread.xml
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.AboutBox1.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.Form1.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.Form2.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.Resources.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.SplashScreen1.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\bin\Debug\Bread.exe.manifest
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\bin\Debug\Bread.application
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.exe.manifest
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.application
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.Form3.resources
+C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.TrustInfo.xml
