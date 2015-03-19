@@ -32,3 +32,22 @@ C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Br
 C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.application
 C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.Form3.resources
 C:\Documents and Settings\Administrator\documenti\visual studio 2010\Projects\Bread\Bread\obj\x86\Debug\Bread.TrustInfo.xml
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.exe
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.xml
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.pdb
+D:\Programmazione\github\Bread\bin\Debug\Bread.exe.manifest
+D:\Programmazione\github\Bread\bin\Debug\Bread.application
+D:\Programmazione\github\Bread\bin\Debug\Bread.exe
+D:\Programmazione\github\Bread\bin\Debug\Bread.pdb
+D:\Programmazione\github\Bread\bin\Debug\Bread.xml
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.AboutBox1.resources
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.Form1.resources
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.Form2.resources
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.Form3.resources
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.Resources.resources
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.SplashScreen1.resources
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.vbproj.GenerateResource.Cache
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.TrustInfo.xml
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.exe.manifest
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.application
+D:\Programmazione\github\Bread\obj\x86\Debug\Bread.Console.resources

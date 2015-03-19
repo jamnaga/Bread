@@ -65,6 +65,7 @@ Partial Class Form1
         Me.Button7 = New System.Windows.Forms.Button()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
         Me.RadioButton2 = New System.Windows.Forms.RadioButton()
+        Me.MostraConsoleToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ContextMenuStrip1.SuspendLayout()
         Me.MenuStrip1.SuspendLayout()
         Me.StatusStrip1.SuspendLayout()
@@ -85,43 +86,43 @@ Partial Class Form1
         '
         Me.ContextMenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.StatoToolStripMenuItem, Me.InterrompiToolStripMenuItem, Me.ToolStripSeparator2, Me.RipristinaToolStripMenuItem, Me.ToolStripSeparator1, Me.EsciToolStripMenuItem1})
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(136, 104)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(131, 104)
         '
         'StatoToolStripMenuItem
         '
         Me.StatoToolStripMenuItem.Enabled = False
         Me.StatoToolStripMenuItem.Name = "StatoToolStripMenuItem"
-        Me.StatoToolStripMenuItem.Size = New System.Drawing.Size(135, 22)
+        Me.StatoToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.StatoToolStripMenuItem.Text = "Stato"
         '
         'InterrompiToolStripMenuItem
         '
         Me.InterrompiToolStripMenuItem.Enabled = False
         Me.InterrompiToolStripMenuItem.Name = "InterrompiToolStripMenuItem"
-        Me.InterrompiToolStripMenuItem.Size = New System.Drawing.Size(135, 22)
+        Me.InterrompiToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.InterrompiToolStripMenuItem.Text = "Interrompi"
         '
         'ToolStripSeparator2
         '
         Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(132, 6)
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(127, 6)
         '
         'RipristinaToolStripMenuItem
         '
         Me.RipristinaToolStripMenuItem.Enabled = False
         Me.RipristinaToolStripMenuItem.Name = "RipristinaToolStripMenuItem"
-        Me.RipristinaToolStripMenuItem.Size = New System.Drawing.Size(135, 22)
+        Me.RipristinaToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.RipristinaToolStripMenuItem.Text = "Ripristina"
         '
         'ToolStripSeparator1
         '
         Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
-        Me.ToolStripSeparator1.Size = New System.Drawing.Size(132, 6)
+        Me.ToolStripSeparator1.Size = New System.Drawing.Size(127, 6)
         '
         'EsciToolStripMenuItem1
         '
         Me.EsciToolStripMenuItem1.Name = "EsciToolStripMenuItem1"
-        Me.EsciToolStripMenuItem1.Size = New System.Drawing.Size(135, 22)
+        Me.EsciToolStripMenuItem1.Size = New System.Drawing.Size(130, 22)
         Me.EsciToolStripMenuItem1.Text = "Esci"
         '
         'OpenFileDialog1
@@ -141,26 +142,26 @@ Partial Class Form1
         '
         Me.BreadToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.EsciToolStripMenuItem})
         Me.BreadToolStripMenuItem.Name = "BreadToolStripMenuItem"
-        Me.BreadToolStripMenuItem.Size = New System.Drawing.Size(47, 20)
+        Me.BreadToolStripMenuItem.Size = New System.Drawing.Size(49, 20)
         Me.BreadToolStripMenuItem.Text = "Bread"
         '
         'EsciToolStripMenuItem
         '
         Me.EsciToolStripMenuItem.Name = "EsciToolStripMenuItem"
-        Me.EsciToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
+        Me.EsciToolStripMenuItem.Size = New System.Drawing.Size(94, 22)
         Me.EsciToolStripMenuItem.Text = "Esci"
         '
         'StrumentiToolStripMenuItem
         '
-        Me.StrumentiToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.GestioneURLsToolStripMenuItem})
+        Me.StrumentiToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.GestioneURLsToolStripMenuItem, Me.MostraConsoleToolStripMenuItem})
         Me.StrumentiToolStripMenuItem.Name = "StrumentiToolStripMenuItem"
-        Me.StrumentiToolStripMenuItem.Size = New System.Drawing.Size(65, 20)
+        Me.StrumentiToolStripMenuItem.Size = New System.Drawing.Size(71, 20)
         Me.StrumentiToolStripMenuItem.Text = "Strumenti"
         '
         'GestioneURLsToolStripMenuItem
         '
         Me.GestioneURLsToolStripMenuItem.Name = "GestioneURLsToolStripMenuItem"
-        Me.GestioneURLsToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.GestioneURLsToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.GestioneURLsToolStripMenuItem.Text = "Gestione URLs"
         '
         'ToolStripMenuItem1
@@ -173,7 +174,7 @@ Partial Class Form1
         'AboutToolStripMenuItem
         '
         Me.AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(126, 22)
+        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
         Me.AboutToolStripMenuItem.Text = "About..."
         '
         'StatusStrip1
@@ -188,7 +189,7 @@ Partial Class Form1
         'Status1
         '
         Me.Status1.Name = "Status1"
-        Me.Status1.Size = New System.Drawing.Size(39, 17)
+        Me.Status1.Size = New System.Drawing.Size(43, 17)
         Me.Status1.Text = "Pronto"
         '
         'StatusBar
@@ -205,7 +206,7 @@ Partial Class Form1
         'Status2
         '
         Me.Status2.Name = "Status2"
-        Me.Status2.Size = New System.Drawing.Size(24, 17)
+        Me.Status2.Size = New System.Drawing.Size(23, 17)
         Me.Status2.Text = "0%"
         Me.Status2.Visible = False
         '
@@ -301,10 +302,10 @@ Partial Class Form1
         Me.LinkLabel1.AutoSize = True
         Me.LinkLabel1.Location = New System.Drawing.Point(12, 366)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(145, 13)
+        Me.LinkLabel1.Size = New System.Drawing.Size(185, 13)
         Me.LinkLabel1.TabIndex = 8
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "http:\\softgetter.altervista.org"
+        Me.LinkLabel1.Text = "https://github.com/Steve1720/Bread"
         '
         'Timer1
         '
@@ -383,6 +384,12 @@ Partial Class Form1
         Me.RadioButton2.Text = "YouTube"
         Me.RadioButton2.UseVisualStyleBackColor = True
         '
+        'MostraConsoleToolStripMenuItem
+        '
+        Me.MostraConsoleToolStripMenuItem.Name = "MostraConsoleToolStripMenuItem"
+        Me.MostraConsoleToolStripMenuItem.Size = New System.Drawing.Size(157, 22)
+        Me.MostraConsoleToolStripMenuItem.Text = "Mostra Console"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -402,7 +409,7 @@ Partial Class Form1
         Me.MainMenuStrip = Me.MenuStrip1
         Me.MaximizeBox = False
         Me.Name = "Form1"
-        Me.Text = "Bread 2013 - File Downloader v8.16.14"
+        Me.Text = "Bread snapshot v1b15"
         Me.ContextMenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
@@ -459,5 +466,6 @@ Partial Class Form1
     Friend WithEvents RadioButton1 As System.Windows.Forms.RadioButton
     Friend WithEvents GroupBox3 As System.Windows.Forms.GroupBox
     Friend WithEvents RadioButton2 As System.Windows.Forms.RadioButton
+    Friend WithEvents MostraConsoleToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class
